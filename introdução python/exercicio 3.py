@@ -1,0 +1,14 @@
+#Solicitando um número ao usuário e exiba a tabuada desse núemero
+
+input("digite tabuada:")
+t = int(input(" digite um Número: "))
+print(t, "x 1 =", t*1)
+print(t, "x 2 =", t*2)
+print(t, "x 3 =", t*3)
+print(t, "x 4 =", t*4)
+print(t, "x 5 =", t*5)
+print(t, "x 6 =", t*6)
+print(t, "x 7 =", t*7)
+print(t, "x 8 =", t*8)
+print(t, "x 9 =", t*9)
+print(t, "x 10 =", t*10)
